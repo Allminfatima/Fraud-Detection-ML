@@ -6,7 +6,8 @@ This project focuses on detecting fraudulent financial transactions using superv
 
 ## 📂 Project Structure
 
-- `fraud_detection_solution.ipynb` – Jupyter Notebook containing all steps
+- `fraud_detection.ipynb` – Jupyter Notebook containing the full ML workflow (exploration, preprocessing, modeling, evaluation)
+- `fraud_detection.py` – Python script version for running the pipeline via command line
 - `fraud.csv` – Dataset file (not included in repo for size/privacy)
 - `LICENSE` – MIT License
 
