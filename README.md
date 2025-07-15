@@ -8,7 +8,6 @@ This project focuses on detecting fraudulent financial transactions using superv
 
 - `fraud_detection_solution.ipynb` – Jupyter Notebook containing all steps
 - `fraud.csv` – Dataset file (not included in repo for size/privacy)
-- `images/` – Folder containing output visualizations (ROC Curve, Confusion Matrix, Feature Importances)
 - `LICENSE` – MIT License
 
 ---
