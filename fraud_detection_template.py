@@ -79,7 +79,7 @@ plt.ylabel('True Positive Rate')
 plt.title('ROC Curve')
 plt.legend()
 plt.grid()
-plt.savefig('images/roc_curve.png', bbox_inches='tight')  
+plt.savefig('images/roc_curve.png', bbox_inches='tight')  # ✅ Save ROC Curve plot
 plt.show()
 
 ## 7. Interpretation of Important Features
